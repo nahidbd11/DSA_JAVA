@@ -11,6 +11,8 @@ public class RemoveDuplicateSortedArray {
                 nums[left]=nums[right];
             }
         }
+
+        System.out.println("number of duplicate:"+(left+1));
         return left+1;
 
     }
