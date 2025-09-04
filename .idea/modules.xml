@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Array_Implementaion/Array_Implementaion.iml" filepath="$PROJECT_DIR$/Array_Implementaion/Array_Implementaion.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA_JAVA.iml" filepath="$PROJECT_DIR$/.idea/DSA_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding_window/Sliding_window.iml" filepath="$PROJECT_DIR$/Sliding_window/Sliding_window.iml" />
       <module fileurl="file://$PROJECT_DIR$/Two_Pointer/Two_Pointer.iml" filepath="$PROJECT_DIR$/Two_Pointer/Two_Pointer.iml" />
     </modules>
   </component>
